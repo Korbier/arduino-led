@@ -1,0 +1,22 @@
+{
+    "name": "Led",
+    "version": "1.0.0",
+    "description": "A Led library which encapsulate led access with french words",
+    "keywords": "led, french, simple",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/korbier/arduino-led.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Stéphane Charenton",
+        "email": "st.charenton@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/korbier/arduino-led.git",
+    "frameworks": "*",
+    "platforms": "*"
+  }
